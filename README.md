@@ -1,4 +1,5 @@
 # Word Slasher
+[Link para o portfólio](https://wordslasher.blogspot.com/)
 
 ## Imagens do nosso protótipo
 ![main](https://raw.githubusercontent.com/luismineo/wordSlasher/main/images/wordslasher.png) <br>
